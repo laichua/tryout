@@ -5,3 +5,5 @@ adding a change
  from laptop adding the change from the remote into the same line.
 adding line 6 locally
 add line 7 tryout2
+remove add line 6
+add line 7 no remote
