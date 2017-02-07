@@ -1,4 +1,6 @@
 This is a test file in tryout
 When you want something, you should ask for it.
 adding a change
- from laptop
+adding a change
+ from laptop adding the change from the remote into the same line.
+
