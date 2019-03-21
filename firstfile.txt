@@ -7,3 +7,4 @@ adding line 6 locally
 add line 7 tryout2
 remove add line 6
 add line 7 no remote
+add line 8 locally
